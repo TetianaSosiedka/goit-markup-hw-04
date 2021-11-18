@@ -129,6 +129,14 @@ p {
   padding: 200px 0;
   text-align: center;
   background-color: var(--bg-footer);
+  background-image: linear-gradient(
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(../images/img-hero.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain auto;
 }
 .hero-title {
   max-width: 696px;
