@@ -337,6 +337,7 @@ p {
   justify-content: center;
   color: var(--bg-icon);
   border: 1px solid var(--bg-icon);
+  border-radius: 4px;
 }
 .client-link:hover,
 .client-link:focus {
